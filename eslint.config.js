@@ -8,7 +8,7 @@ export default [
     {
         overrides: [
             {
-                files: ['tests/**/*'],
+                files: ['test/**/*'],
                 env: {
                     jest: true,
                 },
